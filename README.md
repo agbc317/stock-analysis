@@ -40,7 +40,9 @@ I had some difficulty using the arrays as I made some mistakes with how I define
 ## Results
 
 - What are the advantages or disadvantages of refactoring code?
-    Advantages of refactoring code are that there is less typing that is necessary. If you have already coded something it is very ueful to be able to reuse and refactor code that you have done before. The disadvantages of refactoring code include the fact that it can actually end up taking more time to change the names of variables and making small changes to the code to make it work than it would take to write it from scratch. It is good to think over how much of the code can be reused before decidig to refactor it to make sure that you are using your time wisely. 
+
+Advantages of refactoring code are that there is less typing that is necessary. If you have already coded something it is very ueful to be able to reuse and refactor code that you have done before. The disadvantages of refactoring code include the fact that it can actually end up taking more time to change the names of variables and making small changes to the code to make it work than it would take to write it from scratch. It is good to think over how much of the code can be reused before decidig to refactor it to make sure that you are using your time wisely. 
 
 - How do these pros and cons apply to refactoring the original VBA script?
+
 These pros and cons apply to this VBA script because there are many pieces of the original script that we could reuse but there are some that it would be easier to start over with. 
